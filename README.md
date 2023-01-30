@@ -1,7 +1,8 @@
 ## Oi gente me chamo Natan Xavier 👋
 
 ## sobre min:
-  bem tenho 22 anos estou no 6° período de ciência da computação gosto de criar coisas e falar nossa eu que fiz que incrível e mais ainda se este código puder ajudar alguém de alguma forma possitiva. tenho trabalhado bastante com javascript junto com node e typescript.
+
+  bem tenho 23 anos estou no 8° período de ciência da computação gosto de criar coisas e falar nossa eu que fiz que incrível e mais ainda se este código puder ajudar alguém de alguma forma possitiva. tenho trabalhado bastante com PHP, bootstrap.
   
 ## minhas contribuições:
 
