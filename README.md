@@ -1,5 +1,5 @@
-## Sobre min
-👨‍💻 Olá me chamo **Natan Xavier** tenho 24 anos estou formado em ciência da computação.
+### 👨‍💻 Olá sou Natan Xavier
 
-## Trabalho
-Trabalhado como dev front-end utilizando as seguintes tecnologias **PHP, bootstrap5, HTML, CSS e um pouco de javascript**
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-xavier/)
+[![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natan_xav/)
+
